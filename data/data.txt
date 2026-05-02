@@ -1,0 +1,8 @@
+cat is a cute animal.
+dog is a friendly animal.
+cat and dog are pets.
+apple and banana are fruits.
+orange is a sweet fruit.
+banana is a yellow fruit.
+dog likes people.
+cat likes fish.
